@@ -8397,3 +8397,7 @@ img {
 .fixed-contact-main svg {
   color: white;
 }
+
+.style-switcher-box {
+  display: none;
+}
