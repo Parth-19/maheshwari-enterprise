@@ -8289,7 +8289,7 @@ img {
 .fixed-contact-mail {
   position: fixed;
   width: 45px;
-  top: 15%;
+  bottom: 15%;
   right: 0;
   height: 45px;
   z-index: 9999;
@@ -8303,7 +8303,7 @@ img {
 .fixed-contact-call {
   position: fixed;
   width: 45px;
-  top: calc(15% + 47px);
+  bottom: calc(15% + 47px);
   right: 0;
   height: 45px;
   z-index: 9999;
@@ -8317,7 +8317,7 @@ img {
 .fixed-contact-fb {
   position: fixed;
   width: 45px;
-  top: calc(15% + 94px);
+  bottom: calc(15% + 94px);
   right: 0;
   height: 45px;
   z-index: 9999;
@@ -8331,7 +8331,7 @@ img {
 .fixed-contact-main {
   position: fixed;
   width: 45px;
-  top: calc(15% + 141px);
+  bottom: calc(15% + 141px);
   right: 0;
   height: 45px;
   z-index: 9999;
